@@ -1,0 +1,5 @@
+numpy
+openpyxl
+pillow
+pytest
+# optional: anthropic (for count_tokens.py)

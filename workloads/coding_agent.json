@@ -1,0 +1,10 @@
+{
+  "model": "Claude Opus 5.5",
+  "tools": 8000,
+  "system": 6000,
+  "user": 1500,
+  "reply": 1200,
+  "turns": 40,
+  "chats_per_day": 200,
+  "days": 30
+}

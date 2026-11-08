@@ -1,0 +1,10 @@
+{
+  "model": "Claude Sonnet 5.5",
+  "tools": 2000,
+  "system": 3000,
+  "user": 150,
+  "reply": 400,
+  "turns": 20,
+  "chats_per_day": 1000,
+  "days": 30
+}
